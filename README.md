@@ -38,6 +38,22 @@ The dataset is included in **scikit-learn**. It contains:
 No external data download is required.
 
 ---
+## Project Visualizations
+
+### Feature Noise Comparison
+![Feature Noise Comparison](images/plots.png)
+
+### Confusion Matrices (Testing Data)
+![Testing Confusion Matrices](images/plot_confusion_matrices.png)
+
+### Overall Performance Comparison
+![Overall Performance](images/overall_performance.png)
+
+### Confusion Matrices (Training Data)
+![Training Confusion Matrices](images/plot_confusion_matrices_training.png)
+
+### Training vs Testing Accuracies
+![Training vs Testing Accuracy](images/training_vs_testing_accuracy.png)
 
 ## Installation
 
